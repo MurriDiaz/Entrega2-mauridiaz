@@ -142,8 +142,7 @@ width: 1fr;}
   
   .mate9 { grid-area: mate9; }
   
-  .cuidadomate { grid-area: cuidadomate;
-text-align: center; }
+  .cuidadomate { grid-area: cuidadomate;}
 p{
     margin: 10px;
     padding: 10px;
